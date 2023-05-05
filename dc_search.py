@@ -1,5 +1,5 @@
 """
-该项目为暗链检测系统，只需要在 url.txt 里每行一个 url[http(s)://xx.xx.com/] 即可
+该项目为暗链检测系统，只需要在 url.txt 里每行一个 url[http(s)://xx.xx.com/] 即可！
 """
 import os
 import re
