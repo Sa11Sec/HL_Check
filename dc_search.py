@@ -70,7 +70,10 @@ class Checker:
                 print("\t[J]: ", link)
                 # 获取 JavaScript 文件内容
                 if not link.startswith('http'):
-                    link = f'{url}/{link}' if url.endswith('/') else f'{url}/{os.path.basename(url)}/{link}'
+                    link = link.lstrip('.')
+                    link = link.lstrip('./')
+                    link = link.lstrip('//')
+                    link = f'{url}{link}' if url.endswith('/') else f'{url}/{link}'
                 try:
                     js_code = requests.get(link).content.decode('utf-8')
                     self.log_requests(link, js_code, "js")
