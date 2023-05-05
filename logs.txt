@@ -1,8 +1,0 @@
-[+]:找到暗链、[-]:未找到暗链、[E]:发生错误
-
-
-[+] https://xxx.com:4443/ [暗链 * 13]
-	[+] https://xxx.com:4443///com/js/common.min.js [暗链 * 6]
-	[+] https://xxx.com:4443///com/js/login.min.js [暗链 * 4]
-	[E] https://xxx.com/ECAgent/?op=InitECAgent&arg1=sslvpn.tongfudun.com%204443&Guid=&callback=EA_cb10000 js 请求出错
-[E] http://xxx.com/ url 连接错误
