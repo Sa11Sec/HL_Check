@@ -1,27 +1,8 @@
 [+]:找到暗链、[-]:未找到暗链、[E]:发生错误
 
 
-[+] https://sslvpn.tongfudun.com:4443/ [登录*13]
-	[+] https://sslvpn.tongfudun.com:4443///com/js/common.min.js [登录*6]
-	[+] https://sslvpn.tongfudun.com:4443///com/js/login.min.js [登录*4]
-	[E] https://127.0.0.1:54530/ECAgent/?op=InitECAgent&arg1=sslvpn.tongfudun.com%204443&Guid=&callback=EA_cb10000 js 请求出错
-[-] http://sslvpn.tongfudun.com:4443/ 未检测到暗链
-[-] https://chainpal-channel.tongfudun.com/ 未检测到暗链
-	[-] https://cdn.bootcdn.net/ajax/libs/tinymce/5.10.4/tinymce.min.js 未检测到暗链
-	[-] https://chainpal-channel.tongfudun.com//js/chunk-vendors.0b64d653.js 未检测到暗链
-	[+] https://chainpal-channel.tongfudun.com//js/app.39eb4039.js [登录*2]
-[-] https://channel-admin.tongfudun.com/ 未检测到暗链
-	[-] https://cdn.bootcdn.net/ajax/libs/tinymce/5.10.4/tinymce.min.js 未检测到暗链
-	[-] https://channel-admin.tongfudun.com//js/chunk-vendors.0b64d653.js 未检测到暗链
-	[+] https://channel-admin.tongfudun.com//js/app.39eb4039.js [登录*2]
-[+] https://tuan.tongfudun.com/ [登录*2]
-	[-] https://res.wx.qq.com/open/js/jweixin-1.6.0.js 未检测到暗链
-	[-] https://tuan.tongfudun.com///static/js/pages-index-index~pages-login-index~pages-result-index~pages-ticket-detail~pages-ticket-index.1164fde3.js 未检测到暗链
-	[-] https://tuan.tongfudun.com///static/js/pages-index-index~pages-login-index~pages-ticket-index.7e092c4c.js 未检测到暗链
-	[-] https://tuan.tongfudun.com///static/js/pages-index-index~pages-login-index.fa03bdac.js 未检测到暗链
-	[-] https://tuan.tongfudun.com///static/js/pages-index-index.f8b51b31.js 未检测到暗链
-	[+] https://tuan.tongfudun.com///static/js/pages-login-index.b6e86ad5.js [登录*6]
-	[-] https://tuan.tongfudun.com///static/js/chunk-vendors.62dc4d46.js 未检测到暗链
-	[+] https://tuan.tongfudun.com///static/js/index.8cb53a48.js [登录*1]
-[-] https://61.155.180.72/ 未检测到暗链
-[E] http://61.155.180.72:8989/ url 连接错误
+[+] https://xxx.com:4443/ [暗链 * 13]
+	[+] https://xxx.com:4443///com/js/common.min.js [暗链 * 6]
+	[+] https://xxx.com:4443///com/js/login.min.js [暗链 * 4]
+	[E] https://xxx.com/ECAgent/?op=InitECAgent&arg1=sslvpn.tongfudun.com%204443&Guid=&callback=EA_cb10000 js 请求出错
+[E] http://xxx.com/ url 连接错误
